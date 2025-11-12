@@ -144,6 +144,7 @@ ENV/
 env.bak/
 venv.bak/
 dlprojvenv/
+cancervenv/
 
 # Spyder project settings
 .spyderproject
