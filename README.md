@@ -5,7 +5,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
 [![DVC](https://img.shields.io/badge/DVC-Enabled-blueviolet.svg)](https://dvc.org/)
 [![MLFlow](https://img.shields.io/badge/MLFlow-2.2.2-0194E2.svg)](https://mlflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end **Machine Learning Operations (MLOps)** project for binary classification of chest CT scan images to detect **Adenocarcinoma Cancer** using **VGG16 Transfer Learning**. This project demonstrates production-ready ML pipeline implementation with experiment tracking, version control, and a web-based inference API.
 
